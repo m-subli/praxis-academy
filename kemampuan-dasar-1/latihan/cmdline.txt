@@ -1,0 +1,3 @@
+append /e
+attrib -r b:\public\*.* /s 
+cd\
